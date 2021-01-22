@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="hybrid_framework_suite" duration-ms="173107" started-at="2021-01-22T20:11:34Z" finished-at="2021-01-22T20:14:27Z">
+    <groups>
+    </groups>
+    <test name="hybrid_test" duration-ms="173107" started-at="2021-01-22T20:11:34Z" finished-at="2021-01-22T20:14:27Z">
+      <class name="com.testscripts.TC_hrms_101">
+        <test-method status="PASS" signature="testcase001()[pri:0, instance:com.testscripts.TC_hrms_101@28586]" name="testcase001" duration-ms="65981" started-at="2021-01-22T12:11:35Z" finished-at="2021-01-22T12:12:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase001 -->
+      </class> <!-- com.testscripts.TC_hrms_101 -->
+      <class name="com.testscripts.TC_hrms_102">
+        <test-method status="PASS" signature="testcase002()[pri:0, instance:com.testscripts.TC_hrms_102@1127a61]" name="testcase002" duration-ms="106391" started-at="2021-01-22T12:12:41Z" finished-at="2021-01-22T12:14:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase002 -->
+      </class> <!-- com.testscripts.TC_hrms_102 -->
+    </test> <!-- hybrid_test -->
+  </suite> <!-- hybrid_framework_suite -->
+</testng-results>

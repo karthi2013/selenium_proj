@@ -1,0 +1,25 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+ 
+<suite name="hybrid_framework_suite" verbose="1" >
+  <test name="hybrid_test" >
+    <classes>
+       <class name="com.testscripts.TC_hrms_101" />
+        <class name="com.testscripts.TC_hrms_102" />  
+    </classes>
+  </test>  
+</suite>
+
+
+
+
+
+
+<!--   other format with package run 
+<suite name="Suite1" verbose="1" >
+  <test name="Regression1"   >
+    <packages>
+      <package name="com.hrms.testscripts" />
+   </packages>
+ </test>
+</suite>
+-->
